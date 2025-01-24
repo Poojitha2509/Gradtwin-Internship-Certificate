@@ -1,9 +1,8 @@
 # Data Analytics Internship
-
-## Company: Gradtwin Services Private Limited
-## Duration: 3 months
-## Location: Remote
-## Skills Developed
+Company: Gradtwin Services Private Limited
+Duration: 3 months
+Location: Remote
+Skills Developed
 - Programming languages: Python, SQL
 - Data analysis tools: Pandas, Matplotlib, Excel
 - Soft skills: Communication, teamwork, time management
